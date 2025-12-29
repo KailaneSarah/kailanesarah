@@ -8,62 +8,6 @@ Gosto de unir **tecnologia e estratégia** para desenvolver produtos escaláveis
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🗺️ API Rotas da Ibiapaba  
-**Em desenvolvimento**
-**Objetivo:** Facilitar a gestão de produtos turísticos, parceiros e tickets de resgate na região da Ibiapaba  
-**Tecnologias:** Django, Django REST Framework, Docker, PostgreSQL, JWT
-
-**Resultado esperado:** API robusta para compra e resgate de tickets, com suporte a múltiplos perfis de usuários  
-
-**Implementações:**  
-- Estrutura modular com apps separados (produtos, tickets, parceiros, compras, etc.)  
-- CRUD completo para estabelecimentos e seus produtos  
-- Gerenciamento de diferentes tipos de usuários (turista, gerente, estabelecimento, admin)  
-- Sistema de compra sem login com envio de comprovante por e-mail e WhatsApp  
-- Controle de status dos tickets (em processo, resgatado, cancelado)  
-- Integração com totens para visualização e compra  
-
-**Repositório Git:** [Rotas da Ibiapaba API](https://github.com/kailanesarah/rotas-da-ibiapaba-api)
-
----
-
-### 📦 Sistema de gerenciamento de produtos (Full Stack)  
-**Em desenvolvimento**
-**Objetivo:** Desenvolver uma plataforma completa para cadastro, edição e visualização de produtos  
-**Tecnologias:** Django, Django REST Framework, Bootstrap
-
-**Resultado esperado:** Aplicação full stack funcional com integração entre front-end e back-end  
-
-**Implementações:**  
-- Cadastro, login e autenticação de usuários  
-- CRUD completo de produtos com categorização  
-- Interface responsiva para administração e visualização  
-- Validações personalizadas e mensagens de feedback no front-end  
-- Separação clara entre regras de negócio, templates e rotas protegidas  
-- Projeto idealizado em curso, mas desenvolvido de forma independente  
-
-**Repositório Git:** [Sistema de Gerenciamento de Produtos](https://github.com/kailanesarah/product_management_system)
-
-
----
-### 🖼️ API de extração e tradução de texto em imagens  
-**Objetivo:** Extrair textos de imagens enviadas e traduzir para outros idiomas conforme solicitação do usuário  
-**Tecnologias:** Django, Django REST Framework, OCR (Tesseract), APIs de tradução  
-
-**Resultado esperado:** API funcional que recebe imagens, extrai o texto e realiza tradução sob demanda  
-
-**Implementações:**  
-- Upload e processamento de imagens para extração de texto via OCR  
-- Tradução automática do texto extraído para múltiplos idiomas  
-- Endpoints protegidos por autenticação  
-- Suporte a formatos comuns de imagem  
-- Projeto desenvolvido de forma independente, focado em acessibilidade e automação
-  
-**Repositório Git:** [API de Extração e Tradução de Texto em Imagens](https://github.com/kailanesarah/image-text-extraction-API-DRF)
-
----
 
 ## 🧠 Tecnologias
 **Back-end:**  
@@ -155,5 +99,5 @@ Interesse especial em empresas com cultura de engenharia, aprendizado contínuo 
 
 - **Email:** kailanesarahpro@gmail.com  
 - **LinkedIn:** [linkedin.com/in/kailane-sarah](https://www.linkedin.com/in/kailane-sarah/)  
-- **Portfólio:** [kailanesarah.com.br](https://kailane-sarah-portfolio-omega-pearl.vercel.app/)
+- **Portfólio:** Em desenvolvimento
 
