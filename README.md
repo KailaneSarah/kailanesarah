@@ -9,7 +9,7 @@ Gosto de unir **tecnologia e estratégia** para desenvolver produtos escaláveis
 ---
 
 
-## 🧠 Tecnologias
+## Tecnologias
 **Back-end:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
@@ -40,7 +40,7 @@ Gosto de unir **tecnologia e estratégia** para desenvolver produtos escaláveis
 
 ---
 
-## 📊 Estatísticas GitHub
+##  Estatísticas GitHub
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
@@ -77,14 +77,14 @@ Desde 2023
 
 ---
 
-## 🎯 Objetivo Profissional
+##  Objetivo Profissional
 
 Atuar como desenvolvedora full stack júnior ou estagiária, com foco em aplicações web escaláveis e orientadas a produto.  
 Interesse especial em empresas com cultura de engenharia, aprendizado contínuo e impacto real.
 
 ---
 
-## ✨ Soft Skills & Cultura
+##  Soft Skills & Cultura
 
 - Comunicação clara, empática e assertiva  
 - Mentalidade de aprendizado contínuo e autodesenvolvimento  
@@ -95,7 +95,7 @@ Interesse especial em empresas com cultura de engenharia, aprendizado contínuo 
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - **Email:** kailanesarahpro@gmail.com  
 - **LinkedIn:** [linkedin.com/in/kailane-sarah](https://www.linkedin.com/in/kailane-sarah/)  
